@@ -1,0 +1,77 @@
+{
+  "name": "VirtualPlot_Dispatcher_dnabots",
+  "description": "VirtualPlot_Dispatcher_dnabots",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.System.Activities": "[22.4.1]",
+    "UiPath.UIAutomation.Activities": "[22.4.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.3.0",
+  "projectVersion": "1.0.1-alpha.1",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5c1b3135-3719-4bc8-b6f0-aa50ef5a288c",
+        "testCaseType": "TestCase",
+        "fileName": "Workflows_TestCases\\_02A_Download_n_Move_InputFile_TestCase1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0ff1f0c9-dd4e-4105-9df6-e5d4eac3ff99",
+        "testCaseType": "TestCase",
+        "fileName": "Workflows_TestCases\\_03A_ReadInputFile_n_MoveToCompleted_TestCase1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "eabe3cec-7604-49bc-8334-d0e51d434887",
+        "testCaseType": "TestCase",
+        "fileName": "Workflows_TestCases\\_04A_Format_InputData_n_UploadToQueue_TestCase1.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "a4310dfc-4dbc-48ab-bb79-b654e4ac3214",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

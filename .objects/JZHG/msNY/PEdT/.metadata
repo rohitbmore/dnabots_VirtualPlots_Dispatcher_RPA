@@ -1,0 +1,12 @@
+﻿{
+  "Id": "PEdTomT2yEqV5gwFzdM6ew",
+  "Reference": "otDfWKMlMkOPDgMfAiAyow/PEdTomT2yEqV5gwFzdM6ew",
+  "ParentRef": "otDfWKMlMkOPDgMfAiAyow/msNY3SVmTEyi8MJdZUiqLQ",
+  "Name": "Chrome: https://botsdna.com/vitrualplots/",
+  "Type": "Screen",
+  "Created": "2022-06-18T10:58:59.4309788Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-18T10:58:59.4309788Z"
+}
